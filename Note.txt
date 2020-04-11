@@ -14,4 +14,7 @@ C:\react\react-tailwind-pixabay-gallery>npx tailwind init tailwind.js --full
 The tailwind.css file will be used by us to import Tailwind CSS styles, and for custom configurations and rules.
 The main.css will hold the styles that are generated as a result of what we have in the tailwind.css file.
 
+C:\react\react-tailwind-pixabay-gallery>npm start
+C:\react\react-tailwind-pixabay-gallery>npm run build
+
 
