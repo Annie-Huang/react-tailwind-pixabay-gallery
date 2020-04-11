@@ -1,0 +1,12 @@
+React & Tailwind CSS Image Gallery
+https://www.youtube.com/watch?v=FiGmAI5e91M
+
+https://github.com/bradtraversy/react-tailwind-pixabay-gallery
+https://github.com/Annie-Huang/react-tailwind-pixabay-gallery
+https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/
+
+=======================================================================
+
+C:\react>create-react-app react-tailwind-pixabay-gallery
+C:\react\react-tailwind-pixabay-gallery>npm install tailwindcss postcss-cli autoprefixer -D
+
