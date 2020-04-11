@@ -20,4 +20,4 @@ The main.css will hold the styles that are generated as a result of what we have
 C:\react\react-tailwind-pixabay-gallery>npm start
 C:\react\react-tailwind-pixabay-gallery>npm run build
 
-
+Whenever you add something into .env file, you will have to restart the server.
