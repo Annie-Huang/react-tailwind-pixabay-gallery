@@ -9,4 +9,8 @@ https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/
 
 C:\react>create-react-app react-tailwind-pixabay-gallery
 C:\react\react-tailwind-pixabay-gallery>npm install tailwindcss postcss-cli autoprefixer -D
+C:\react\react-tailwind-pixabay-gallery>npx tailwind init tailwind.js --full
+
+
+
 
