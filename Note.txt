@@ -5,6 +5,9 @@ https://github.com/bradtraversy/react-tailwind-pixabay-gallery
 https://github.com/Annie-Huang/react-tailwind-pixabay-gallery
 https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/
 
+https://pixabay.com/api/docs/           <<< sign up with my google account
+https://pixabay.com/api/?key=15990367-cea4244ed135fb4952ac47291&q=yellow+flowers&image_type=photo&pretty=true
+
 =======================================================================
 
 C:\react>create-react-app react-tailwind-pixabay-gallery
