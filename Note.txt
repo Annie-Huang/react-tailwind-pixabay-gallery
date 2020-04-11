@@ -11,6 +11,7 @@ C:\react>create-react-app react-tailwind-pixabay-gallery
 C:\react\react-tailwind-pixabay-gallery>npm install tailwindcss postcss-cli autoprefixer -D
 C:\react\react-tailwind-pixabay-gallery>npx tailwind init tailwind.js --full
 
-
+The tailwind.css file will be used by us to import Tailwind CSS styles, and for custom configurations and rules.
+The main.css will hold the styles that are generated as a result of what we have in the tailwind.css file.
 
 
